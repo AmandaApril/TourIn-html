@@ -1758,7 +1758,7 @@ select.form-control.has-value {
 .pricing-tab.feature-tab li a.nav-link {
     padding: 8px 15px;
     margin: 0;
-    border: 2px solid #7202bb;
+    border: 2px solid #048ca3;
     background: #ffffff;
 }
 
@@ -1772,9 +1772,9 @@ select.form-control.has-value {
 }
 
 .pricing-tab.feature-tab li a.nav-link.active {
-    background: #7202bb;
+    background: #048ca3;
     color: #ffffff;
-    border-color: #7202bb;
+    border-color: #048ca3;
 }
 
 .card.single-pricing-pack {
@@ -1792,7 +1792,7 @@ select.form-control.has-value {
 .single-pricing-pack:hover {
     box-shadow: 0 1rem 3rem rgba(31, 45, 61, .125)!important;
     transform: translate(0, -5px);
-    border-top: 4px solid #7202bb;
+    border-top: 4px solid #048ca3;
 }
 
 .single-pricing-pack .card-body {
@@ -1830,7 +1830,7 @@ select.form-control.has-value {
 
 .popular-price {
     box-shadow: 0 1rem 3rem rgba(31, 45, 61, .125)!important;
-    border-top: 4px solid #7202bb !important;
+    border-top: 4px solid #048ca3 !important;
 }
 
 
