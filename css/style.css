@@ -3084,3 +3084,29 @@ a.view-details-link:hover span {
     border-left: 8px solid transparent;
     top: -8px;
 }
+
+ul.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+ul.pagination li {
+    display: inline;
+}
+
+ul.pagination li a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+ul.pagination li a.active {
+    background-color: #4CAF50;
+    color: rgb(12, 117, 74);
+}
+
+ul.pagination li a:hover:not(.active) {
+    background-color: rgb(163, 237, 187);
+}
